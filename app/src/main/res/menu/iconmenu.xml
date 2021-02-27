@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_bisection"
+        android:icon="@drawable/math"
+        android:title="Bisection Method" />
+
+    <item
+        android:id="@+id/nav_newton"
+        android:icon="@drawable/math"
+        android:title="Newton Raphson Method" />
+
+    <item
+        android:id="@+id/nav_regula"
+        android:icon="@drawable/math"
+        android:title="Regula Falsi Method"/>
+
+    <item
+        android:id="@+id/nav_guide"
+        android:icon="@drawable/user_guide"
+        android:title="User Guide"/>
+</menu>
