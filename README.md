@@ -14,4 +14,4 @@ Here are some images from usage on a Realme device<br>
 <br>
 <b>****Credtis for resources****</b><br>
 I have used this beautiful Mathematical Library named MXParser for JAVA which provides most of the mathematical functions barring some.
-<br><a href="https://www.freepik.com" title="Freepik">Freepik</a>
+<br>icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> 
